@@ -29,7 +29,7 @@
 | Bachelor of Science (Mathematics) | Himachal Pradesh University | **55.38%** |
 | ITI Diploma (Computer) | Govt. ITI Bangana | **70.68%** |
 | Senior Secondary (Class XII) | HPBOSE | **50.38%** |
-| Secondary (Class X) | HPBOSE | **6.8 CGPA** |
+| Secondary (Class X) | CBSE | **6.8 CGPA** |
 
 ## 🧠 My Focus Areas
 - 💻 Web Development • 🌐 Frontend Engineering • ⚙️ Software Development
