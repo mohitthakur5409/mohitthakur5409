@@ -25,7 +25,7 @@
 
 | 🎓 Qualification | 🏫 Institute / University | 📊 Academic Performance |
 |------------------|---------------------------|-------------------------|
-| Master of Computer Applications (MCA) | Chandigarh University | **8.6 CGPA (Sem I)** • **9.0 CGPA (Sem II)** |
+| Master of Computer Applications (MCA) | Chandigarh University | **8.6 CGPA (Sem I)** • **9.0 CGPA (Sem II)** • **8.4 CGPA (Sem III)** |
 | Bachelor of Science (Mathematics) | Himachal Pradesh University | **55.38%** |
 | ITI Diploma (Computer) | Govt. ITI Bangana | **70.68%** |
 | Senior Secondary (Class XII) | HPBOSE | **50.38%** |
